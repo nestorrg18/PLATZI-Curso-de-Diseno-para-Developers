@@ -8,11 +8,11 @@
 
 ## DIFERENTES METODOLOGÍAS.
 * ### Mejora progresiva. (Progressive enhacement):
-        Se parte de una base donde tenemos solo los elementos esenciales del diseño para un movil, e iremos ampliando la complejidad a medida que vamos subiendo hasta el PC.
+    Se parte de una base donde tenemos solo los elementos esenciales del diseño para un movil, e iremos ampliando la complejidad a medida que vamos subiendo hasta el PC.
 * ### Degradación Agraciada. (Graceful degradation)
-        Empezamos desde una versión completa y vamos reduciendo la complejidad a medida que bajamos de dispositivo.
-        Este método se usa sobre todo cuando la web ya esta hecha y queremos adaptarla a móviles o tablets.
-        Esta metodología afectan tanto al diseño como a la funcionalidad.
+    Empezamos desde una versión completa y vamos reduciendo la complejidad a medida que bajamos de dispositivo.
+    Este método se usa sobre todo cuando la web ya esta hecha y queremos adaptarla a móviles o tablets.
+    Esta metodología afectan tanto al diseño como a la funcionalidad.
 
 ## ORDEN DE TRABAJO
 ### En diseño
